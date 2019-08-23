@@ -43,4 +43,10 @@
 ### Arreglos []
 ### Objetos {} 
 
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+![alt text](https://github.com/dgtic-dam/WS/blob/master/images/16779.jpg "Ejercicio")
 
