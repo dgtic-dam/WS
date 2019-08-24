@@ -1,5 +1,6 @@
-# rafael.glez@gmail.com
-# rafael.gonzalez@bitmania.com
+# Ing. González García, Rafael
+### rafael.glez@gmail.com
+### rafael.gonzalez@bitmania.com
 
 * [MAMP](https://www.mamp.info/en/)
 * [STS](https://spring.io/tools)
