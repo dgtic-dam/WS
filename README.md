@@ -1,3 +1,6 @@
+# rafael.glez@gmail.com
+# rafael.gonzalez@bitmania.com
+
 * [MAMP](https://www.mamp.info/en/)
 * [STS](https://spring.io/tools)
 * [Postman](https://www.getpostman.com/)
